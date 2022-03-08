@@ -88,4 +88,3 @@ play_game()
 
 
 
-#próximo passo: fixar a letra certa na posição
